@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
-#-------------------------------------------------------------------------
-#      _          _    __  __      _   _
-#     /_\  _ _ __| |_ |  \/  |__ _| |_(_)__
-#    / _ \| '_/ _| ' \| |\/| / _` |  _| / _|
-#   /_/ \_\_| \__|_||_|_|  |_\__,_|\__|_\__|
+#--------------------------------------------------------------------------------
+#   ______                 _          _ 
+#  |  --  \               /_\  _ _ __| |_     | System Administrated            |
+#  |  --  /  |------|    / _ \| '_/ _| '  |   | St. Barts Internal              |
+#  |______\             /_/ \_\_| \__|_||_|   | B-Arch Linux / Barts arch Linux |
 #  Arch Linux Post Install Setup and Config
-#-------------------------------------------------------------------------
+#--------------------------------------------------------------------------------
 
 echo -e "\nINSTALLING AUR SOFTWARE\n"
 # You can solve users running this script as root with this and then doing the same for the next for statement. However I will leave this up to you.
